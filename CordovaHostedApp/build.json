@@ -1,0 +1,29 @@
+{
+  "android": {
+    "release": {
+      "keystore": "",
+      "storePassword": "",
+      "alias": "",
+      "password": "",
+      "keystoreType": ""
+    }
+  },
+  "ios": {
+    "release": {
+      "keystore": "",
+      "storePassword": "",
+      "alias": "",
+      "password": "",
+      "developmentTeam": "MATRIXRES",
+      "keystoreType": ""
+    },
+    "debug": {
+      "keystore": "",
+      "storePassword": "",
+      "alias": "",
+      "password": "",
+      "developmentTeam": "MATRIXRES",
+      "keystoreType": ""
+    }
+  }
+ }
