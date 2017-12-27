@@ -7,7 +7,7 @@ var CordovaHostedApp;
     (function (Application) {
         function initialize() {
 
-        // This gets called.
+        // For Matt: This gets called.
 
             alert('cordova initialize');
             this.document.addEventListener('deviceready', this.onDeviceReady, false);
@@ -15,7 +15,7 @@ var CordovaHostedApp;
         Application.initialize = initialize;
         function onDeviceReady() {
 
-// This doesn't get called
+// For Matt: This doesn't get called
             // Handle the Cordova pause and resume events
             alert('On Device Ready()');
             document.addEventListener('pause', onPause, false);
